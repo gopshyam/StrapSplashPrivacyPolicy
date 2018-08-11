@@ -1,0 +1,16 @@
+==================    Strap Splash Privacy Policy   ==================
+
+Effective: August 10, 2018
+
+I’m Shyam. Strap Splash is a passion project I’ve been working on for a while to try and implement a concept that I found interesting. 
+Protecting your privacy is extremely important to me. 
+For this reason, no information about you or the people that you interact with while using this app is collected or permanently stored. 
+
+The application uses your device camera and extracts some information about what is visible through the camera. 
+This information is vital to the operation of the application and may be temporarily stored in application memory. 
+This information does not persist and can only be accessed by the processes that are a part of the application. 
+However, if you wish to revoke access to this feature even though it could affect the operation of the application, you may do so by writing to gopal.shyam94@gmail.com. 
+
+I would again like to reiterate that no data is stored by the application or made available to third parties or developers of the application. 
+In case of any further questions, feel free to contact me at gopal.shyam94@gmail.com. 
+
